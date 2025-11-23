@@ -5,13 +5,13 @@
 ---
 
 ## 🔭 O que estou fazendo agora  
-```
--Desenvolvendo projetos usando Python e Pandas
--Aprimorando minhas habilidades em modelagem preditiva
--Estudando visualização avançada com Plotly, Seaborn e Dash
--Expandindo meus conhecimentos em SQL, Power BI, Tableau, VBA e macros no Excel
--Trabalhando em novos projetos que integram conhecimentos financeiros com análise de dados, automação e visualização
-```
+
+-Desenvolvendo projetos usando Python e Pandas;
+-Aprimorando minhas habilidades em modelagem preditiva;
+-Estudando visualização avançada com Plotly, Seaborn e Dash;
+-Expandindo meus conhecimentos em SQL, Power BI, Tableau, VBA e macros no Excel;
+-Trabalhando em novos projetos que integram conhecimentos financeiros com análise de dados, automação e visualização.
+
 
 ## 💡 Principais habilidades  
 - **Linguagens e Bibliotecas**: Python, Pandas, NumPy, Scikit-Learn, SQL 
