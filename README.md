@@ -20,10 +20,14 @@
 - **Automação e Excel Avançado**: VBA, Macros, funcões e modelagem no Excel
 
 ## 📂 Projetos em destaque  
-- **[Análise de Churn com Pandas](https://github.com/bernardino-juliana/analise-churn-pandas)** — Projeto de análise exploratória de churn usando dados fictícios.
-- (Em desenvolvimento) Análise de aging list e efeito vagão utilizando SQL e Power BI
-- (Futuros) Dashboards com KPIs financeiros e análises de desempenho
-  
+
+- **[Análise Financeira - JBData](https://github.com/bernardino-juliana/analise-financeira-jbdata)** — Projeto de análise financeira utilizando SQL e IA, focado na geração de insights sem dependência de dashboards complexos.
+
+- **[Análise de Churn com Pandas](https://github.com/bernardino-juliana/analise-churn-pandas)** — Projeto de análise exploratória de churn utilizando dados fictícios.
+
+- **(Em desenvolvimento) Aging List + Efeito Vagão** — Análise de inadimplência e concentração de clientes utilizando SQL e Power BI.
+
+- **(Futuros) Dashboards Financeiros** — Desenvolvimento de dashboards com KPIs financeiros e análises de desempenho.
 ---
 
 ## 📫 Como me encontrar  
